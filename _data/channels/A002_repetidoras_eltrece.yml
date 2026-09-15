@@ -7,6 +7,7 @@ channels:
   - name: Canal 9 Litoral
     logo: 9Litoral.png
     stream-url: https://stream.arcast.live/ahora/ahora/playlist.m3u8
+    hidden: true
     channel-type: tv
   - name: Canal 10 Mar del Plata 
     logo: 10MDP.png
