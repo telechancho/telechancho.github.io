@@ -23,6 +23,7 @@ channels:
   - name: Canal 10 Córdoba
     logo: 10CBA.png
     stream-url: https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+    hidden: true
     channel-type: tv
   - name: Canal 12 Puerto Madryn
     logo: 12PM.png
@@ -46,7 +47,7 @@ channels:
     channel-type: tv
   - name: Canal Provincial
     logo: Provincial.png
-    stream-url: https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
+    stream-url: https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
     channel-type: tv
   - name: CPE TV
     logo: CPETV.png
@@ -55,7 +56,7 @@ channels:
     channel-type: tv
   - name: Multivision Federal
     logo: 9MV.png
-    stream-url: https://panel.host-live.com:19360/8250/8250.m3u8
+    stream-url: https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
     channel-type: tv
   - name: Neox TV Salta
     logo: NeoxTVSalta.jpg
